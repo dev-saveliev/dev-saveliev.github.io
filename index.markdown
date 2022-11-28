@@ -12,37 +12,45 @@ I live in Ivano-Frankivsk, Ukraine. Sometimes, after the russian's bombing we're
 
 <br>
 
-## Technologies
+## Education
 
-I am experienced in using the following technologies:
- 
+**MSc in Software Engineering**
 
-***Common***
+Donetsk National Technical University
 
-* API; GraphQL; Sockets
-* Firebase (Realtime Database, FireStore, Push Notifications)
-* Git
-* Jira; Trello
+2011 - 2012
 
-***iOS*** 
+---
 
-* UIKit; Storyboard; AutoLayout; SnapKit
-* SwiftUI + Combine
-* Architectures MVVM, Viper
-* RxSwift
-* CoreData; RealM (MongoDB)
-* Google Maps; MapBox
+**Bachelor of Software Engineering**
 
-***Flutter***
+State University of Informatics and Artificial Intelligence
 
-* Bloc; Redux; Provider; GetX
-* SQLite
-* Google Maps; OpenStreetMaps
+2007 - 2011
 
 <br>
 
-## Experience
-Recent companies I worked in
+## Technologies
+
+I am experienced in using the following technologies:
+
+* MVVM, Viper, Bloc; Redux; Provider; GetX
+* API; GraphQL; Sockets
+* CoreData; RealM (MongoDB), SQLite
+* UIKit; Storyboard; AutoLayout; SnapKit
+* SwiftUI + Combine
+* Firebase (Realtime Database, Firestore, Auth, Messaging)
+* Camera (Photo, Video)
+* Google Maps; MapBox; OpenStreetMaps
+* InApp Purchases
+* Push Notifications
+* Analytics (Firebase Analytics, AppMetrika, Sentry)
+* Git
+* Jira; Trello
+
+<br>
+
+## Work Experience
 
 ### [TextMagic](https://www.textmagic.com)
 #### 2022 Senior iOS Developer
