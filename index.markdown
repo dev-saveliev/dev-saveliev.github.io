@@ -6,27 +6,21 @@ title: Artem Saveliev
 
 # Hello, I'm Artem Saveliev
 
-I have a big experience in creating mobile apps in Swift/Objective C and Flutter.
+Every complex mobile app is unique. It means that there is no one typical solution to solve a task. My experience helps me to understand the task and find an optimal solution.
 
-I live in Ivano-Frankivsk, Ukraine. Sometimes, after the russian's bombing we're without an electricity. Usually it's temporary and I still can work normally.
+**Cooperation options:**
+- Individually work on your project;
+- Joining to your team of developers;
+- Managing your team up to 5 developers;
+- Consulting
 
 <br>
 
-## Education
+## Testimonials
 
-**MSc in Software Engineering**
+**Dylan B.**
 
-Donetsk National Technical University
-
-2011 - 2012
-
----
-
-**Bachelor of Software Engineering**
-
-State University of Informatics and Artificial Intelligence
-
-2007 - 2011
+*"Thank you so much Artem! You are the most talented developer I have ever worked with! I genuinely can not believe how knowledgeable you are about IOS development. Please bill for your time! Thank you so much! 🙂"*
 
 <br>
 
@@ -47,6 +41,24 @@ I am experienced in using the following technologies:
 * Analytics (Firebase Analytics, AppMetrika, Sentry)
 * Git
 * Jira; Trello
+
+<br>
+
+## Education
+
+**MSc in Software Engineering**
+
+Donetsk National Technical University
+
+2011 - 2012
+
+---
+
+**Bachelor of Software Engineering**
+
+State University of Informatics and Artificial Intelligence
+
+2007 - 2011
 
 <br>
 
